@@ -1,0 +1,21 @@
+body {
+    background-color: silver;
+}
+
+.bx {
+    box-shadow: 2px 2px 18px rgba(0, 0, 0, 0.2);
+}
+
+.card_border {
+    box-shadow: 2px 2px 18px rgba(0, 0, 0, 0.2);
+    border: 0px;
+}
+
+.logout_button {
+    margin-left: 5px;
+}
+
+.login_button {
+    position: relative;
+    margin: 0;
+}
